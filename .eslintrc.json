@@ -5,7 +5,8 @@
   "rules": {
     "@typescript-eslint/strict-boolean-expressions": "off",
     "@typescript-eslint/prefer-nullish-coalescing": "off",
-    "@typescript-eslint/space-before-function-paren": "off"
+    "@typescript-eslint/space-before-function-paren": "off",
+    "@typescript-eslint/no-unsafe-argument": "off"
   },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
